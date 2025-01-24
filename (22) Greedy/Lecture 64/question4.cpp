@@ -1,0 +1,1 @@
+// Make array zero by subtracting equal amounts [Leetcode 2357]

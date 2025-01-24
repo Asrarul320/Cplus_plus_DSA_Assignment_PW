@@ -1,0 +1,1 @@
+// Minimum deviation in array LEETCODE:-1675

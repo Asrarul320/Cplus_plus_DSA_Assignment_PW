@@ -3,3 +3,6 @@
 // 2
 // 3
 // Depends upon the node being deleted.
+
+
+// Solution= Depends upon the node being deleted.
